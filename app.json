@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "PekaAI",
+    "slug": "pekaai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "sdkVersion": "48.0.0",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.pekaist.pekaai",
+      "versionCode": 1
+    }
+  }
+}
