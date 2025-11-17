@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "PekaAI",
@@ -16,8 +17,14 @@
 
     "extra": {
       "eas": {
-        "projectId": "AUTO"
+        "projectId": "fb18d926-dff3-42b2-88ea-dac917422dd6"
       }
-    }
+    },
+
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ]
   }
 }
